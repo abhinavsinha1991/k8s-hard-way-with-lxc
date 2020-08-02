@@ -8,7 +8,7 @@
 5. For next steps follow video https://www.youtube.com/watch?v=NvQY5tuxALY(to understand logical flow of hard way K8s setup, skip if you know them already) and then https://www.youtube.com/watch?v=2bVK-e-GuYI.
 6. Use `k8s-hard-way-steps-with-lxc.txt` file to use pre-built steps with LXC commands instead(already tested to be working).
 
-Note: Read comments in the cheatsheet file wherever indicated and make appropriate changes.
+Note: Read comments in the `k8s-hard-way-steps-with-lxc.txt` steps file wherever indicated and make appropriate changes.
 
 Most common LXC commands are also captured in the LXC command cheatsheet file.
 
