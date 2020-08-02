@@ -1,13 +1,12 @@
     1  lxc list
    10  sudo lxd init
-   11  lxd profile list
-   13  lxx profile show
+   11  lxc profile list
+   13  lxc profile show
    15  lxc profile copy default k8s
    22  lxc profile edit k8s
    23  lxc profile show k8s
    26  lxc launch images:centos/7 haproxy
    27  lxc launch ubuntu:18.04 controller-0 --profile k8s
-   28  lxc list
    31  lxc image list
    32  lxc image delete 1b1c937f9de9
   106  lxc exec haproxy bash
